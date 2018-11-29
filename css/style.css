@@ -62,6 +62,10 @@ body
     font-size: 20px;
 }
 
+.g-navi li a:hover{
+    opacity:0.5;
+}
+
 .about h2 {
     text-align: center;
 }
@@ -269,6 +273,10 @@ body
     padding-right: 60px;
 }
 
+.contact-list li a:hover{
+    opacity:0.5;
+}
+
 .contact-list li i {
     color: #626262;
 }
@@ -395,3 +403,4 @@ body
     
     
 }
+
